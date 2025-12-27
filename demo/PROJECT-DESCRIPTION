@@ -1,0 +1,21 @@
+This folder contains the files for a semi-working text-based adventure game I created to explore JavaFX
+and refresh myself on Java. It relies on a node system to navigate between story 'scenes' at the press of a button.
+
+A little bit of the story was written, but for the most part I spent my time refining battle logic.
+The work was split between many classes (Character, Enemy, Battle, etc.) and includes:
+- menu and button initialization
+- proper menu refreshes
+- unique party member AI 
+- enemy AI
+- functioning spells and back buttons via a node system
+- cooldown trackers 
+- win/loss mechanics
+- healing and damage systems
+- buff and ailment systems
+- party dialogue reactions
+- proper reset upon win/loss
+- a working party change menu
+& more I've probably implemented but since forgotten about 
+(including design/layout features like font, color, button placement, itatlics/bold, etc.)
+
+The character names have been reduced to abbreviations for anonymity's sake.
